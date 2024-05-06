@@ -19,7 +19,7 @@ function Currencies() {
       <tr>
         <th>Name</th>
         <th>Code</th>
-        <th>Rate</th>
+        <th>rate</th>
       </tr>
       </thead>
       <tbody>
